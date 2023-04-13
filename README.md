@@ -4,7 +4,7 @@ Hi there!
 
 I am from Spain and currently living in Malaga.
 
-<p>🌱 I’m currently studying the Full Stack Web Development Bootcamp (600 h.) at <a href="https://www.releevant.com/">Releevant</a><p>
+<p>🌱 In a Full Stack Web Development Bootcamp (600 h. training) at <a href="https://www.releevant.com/">Releevant</a><p>
  
 <p>⚡ Learning skills with</p>
 
@@ -21,7 +21,7 @@ I am from Spain and currently living in Malaga.
 🔭 I’m looking to collaborate on W3C blockchain, reat estate investments, blockchain and smart contracts.
 
 <p align="left">
-  <p>📫 Connect with me on ... <a href="https://www.linkedin.com/in/callejaj/" alt="Linkedin"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
+  <p>📫 Connect with me on  <a href="https://www.linkedin.com/in/callejaj/" alt="Linkedin"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
 
   </p>
 
