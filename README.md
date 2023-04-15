@@ -18,7 +18,7 @@ I am from Spain and currently living in Malaga.
  
 </p>
 
-🔭 I’m looking to collaborate on W3C blockchain, reat estate investments, blockchain and smart contracts.
+🔭 I’m interested in collaborate with W3C blockchain real estate investments.
 
 <p align="left">
   <p>📫 Connect with me on  <a href="https://www.linkedin.com/in/callejaj/" alt="Linkedin"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/linkedin.png" height="20" width="20"></a>&nbsp;
