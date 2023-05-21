@@ -2,7 +2,7 @@ Hi there!
 
 <p>My name is Jorge 👋</p>
 
-I am from Spain and currently living in Malaga.
+I'm from Spain and currently living in Malaga.
 
 <p>🌱 In a Full Stack Web Development Bootcamp (600 h. training) at <a href="https://www.releevant.com/">Releevant</a><p>
  
