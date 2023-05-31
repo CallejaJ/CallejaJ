@@ -4,7 +4,7 @@
     <b>Welcome to my user profile!</b><br><br>
     <i>
         I'm Jorge.<br>
-        Currently learning to code in a full-stack web bootcamp.<br>
+        I'm currently living in Málaga and learning to code in a full-stack web bootcamp.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/CallejaJ">
