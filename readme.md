@@ -7,10 +7,10 @@
         I'm currently living in Málaga and learning to code in a full-stack web bootcamp.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/CallejaJ">
+    <a href="https://www.linkedin.com/in/CallejaJ" tarjet="blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://www.twitter.com/CallejaPJ">
+    <a href="https://www.twitter.com/CallejaPJ" tarjet="blank">
         <img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter" alt="LinkedIn">
     </a>
     
