@@ -17,17 +17,23 @@
 </p>
 
 ### Languages
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://#)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-blue)](https://#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue)](https://#)
+[![Java](https://img.shields.io/badge/Java-blue)](https://#)
+[![Vanilla JS](https://img.shields.io/badge/VanillaJS-blue)](https://#)
+[![MySQL](https://img.shields.io/badge/MySQL-blue)](https://#)
+[![MONGODB](https://img.shields.io/badge/MongoDB-blue)](https://#)
 
 
 ### Technologies & Frameworks
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://#)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://#)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://#)
+[![React Router](https://img.shields.io/badge/React-blue)](https://#)
+[![HTML5](https://img.shields.io/badge/HTML-blue)](https://#)
+[![CSS3](https://img.shields.io/badge/CSS-3)](https://#)
 
 ### OS
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://#)
+[![Windows](https://img.shields.io/badge/Windows-blue)](https://#)
+[![Linux](https://img.shields.io/badge/Linux-blue)](https://#)
+
 
 <details>
 <p align="center">
