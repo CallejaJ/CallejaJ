@@ -18,8 +18,6 @@
 
 ### Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-blue)](https://#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-blue)](https://#)
-[![Java](https://img.shields.io/badge/Java-blue)](https://#)
 [![Vanilla JS](https://img.shields.io/badge/VanillaJS-blue)](https://#)
 [![MySQL](https://img.shields.io/badge/MySQL-blue)](https://#)
 [![MONGODB](https://img.shields.io/badge/MongoDB-blue)](https://#)
