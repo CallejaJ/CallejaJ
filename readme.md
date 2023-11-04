@@ -1,58 +1,18 @@
-<h1 align="center">Hi, there!</h1>
+## About Me:
+-  I’m currently living in Malaga
+-  I’m looking to collaborate on communities and open source projects
+-  I’m currently learning best practices
 
-<p align="center">
-    <b>Welcome to my user profile!</b><br><br>
-    <i>
-        I'm Jorge.<br>
-        I'm currently living in Málaga and looking for an opportunity to contribute in any library and keep on learning JS plus TS.<br>
-        Open to collaborating on interesting and innovative projects.<br>
-    </i><br>
-    <a href="https://www.linkedin.com/in/CallejaJ" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://www.twitter.com/CallejaPJ" target="_blank">
-        <img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter" alt="LinkedIn">
-    </a>
-    
-</p>
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/callejaj/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CallejaPJ) 
 
-### Languages
-[![JavaScript](https://img.shields.io/badge/JavaScript-blue)](https://#)
-[![Vanilla JS](https://img.shields.io/badge/VanillaJS-blue)](https://#)
-[![MySQL](https://img.shields.io/badge/MySQL-blue)](https://#)
-[![MONGODB](https://img.shields.io/badge/MongoDB-blue)](https://#)
+## Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=CallejaJ&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CallejaJ&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CallejaJ&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### Technologies & Frameworks
-[![React Router](https://img.shields.io/badge/React-blue)](https://#)
-[![HTML5](https://img.shields.io/badge/HTML-blue)](https://#)
-[![CSS3](https://img.shields.io/badge/CSS-3)](https://#)
-
-### OS
-[![Windows](https://img.shields.io/badge/Windows-blue)](https://#)
-[![Linux](https://img.shields.io/badge/Linux-blue)](https://#)
-
-
-<details>
-<p align="center">
-  <a href="https://github.com/CallejaJ">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CallejaJ&theme=transparent" />
-  </a>
-  <a href="https://github.com/CallejaJ">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CallejaJ&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/CallejaJ">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CallejaJ&theme=transparent" />
-  </a>
-  <a href="https://github.com/CallejaJ">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallejaJ&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p>
-</details>
-
-<p align="center">
-  <a href="https://github.com/CallejaJ">
-    <img src="https://komarev.com/ghpvc/?username=CallejaJ&color=blue&style=flat)" />
-  </a>
-</p>
-
+  
