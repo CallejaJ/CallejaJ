@@ -3,9 +3,7 @@
   </div>
 
 ## About Me
--  I’m currently living in Malaga
--  I’m looking to collaborate on communities and open source projects
--  I’m currently learning best practices
+I’m currently living in Malaga and I’m looking to collaborate on communities and open source projects. I keep on learning best practices.
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/callejaj/)
