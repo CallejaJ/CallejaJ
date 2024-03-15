@@ -1,5 +1,5 @@
  <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+Jorge+Calleja+%F0%9F%91%8B;Software+Developer+in+Malaga;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+Jorge+Calleja+%F0%9F%91%8B;front-end+developer+in+Malaga;MERN+STACK+specialist;with+broad+financial+vision;in+international+markets" alt="Headline" />
   </div>
 
 ## About Me
