@@ -1,5 +1,5 @@
  <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+Jorge+Calleja;+AI+Software+Developer;Frontend+React+Specialist;Web3;International+Marketing;Building+a+new+future+together!" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+Jorge+Calleja;+AI+Software+Developer;Frontend+React+UX+Specialist;Web3;Blockchain;Building+a+new+future+together!" alt="Headline" />
   </div>
 
 ## About Me
