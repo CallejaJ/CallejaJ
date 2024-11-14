@@ -10,15 +10,18 @@ I’m currently living in Malaga and I’m looking to collaborate on new startup
 
 ## GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CallejaJ&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=callejaj&margin-w=15&margin-h=15&column=4" alt="callejaj" />
+  </a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CallejaJ&theme=radical&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=callejaj&show_icons=true&locale=en&layout=compact" alt="callejaj" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallejaJ&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=callejaj&show_icons=true&locale=en" alt="callejaj" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callejaj&" alt="callejaj" />
+</p>
 
- 
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CallejaJ&label=Profile%20views&color=0e75b6&style=flat" alt="callejaj" style="height:25px"; /> </p>
 
