@@ -20,8 +20,6 @@ I’m currently living in Malaga and I’m looking to collaborate on new startup
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=callejaj&show_icons=true&locale=en" alt="callejaj" />
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callejaj&" alt="callejaj" />
-</p>
+
 
 
