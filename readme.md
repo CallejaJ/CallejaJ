@@ -120,16 +120,41 @@ const jorge = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=callejaj&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Jorge Calleja github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callejaj&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Jorge Calleja top languages" />
+  
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=callejaj&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Jorge Calleja GitHub Stats" />
+  </a>
+  
+  <!-- Most Used Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callejaj&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Jorge Calleja Top Languages" />
+  </a>
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=callejaj&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="callejaj streak" />
+  
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=callejaj&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Jorge Calleja Streak Stats" />
+  </a>
+  
 </div>
 
+<!-- Alternative: If the above doesn't work, uncomment this section -->
+<!--
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=callejaj&custom_title=Jorge's%20Contribution%20Graph&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true" alt="Jorge's Activity Graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=callejaj&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=callejaj&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+-->
+
+<!-- Activity Graph -->
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=callejaj&custom_title=Jorge's%20Contribution%20Graph&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true" alt="Jorge's Activity Graph" />
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -148,45 +173,61 @@ const jorge = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔐 DeFi Protocol</h3>
+      <h3 align="center">⚡ Gasless Token Swap</h3>
       <div align="center">
-        <a href="https://github.com/callejaj/project1" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        <!-- <a href="https://github.com/CallejaJ/token-swap" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a> -->
+        <a href="https://gasless-token-swap.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE%20DEMO-4FC08D?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
         </a>
-        <p><strong>Smart Contracts, Solidity, Web3</strong></p>
-        <p>Advanced DeFi protocol with yield farming and liquidity pools</p>
+        <p><strong>Solidity • React 18 • Next.js • TypeScript</strong></p>
+        <p><strong>ZeroDev SDK • Account Abstraction</strong></p>
+        <p>Gasless token swapping with account abstraction for seamless UX</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🎨 NFT Marketplace</h3>
+      <h3 align="center">💰 USDT Staking Platform</h3>
       <div align="center">
-        <a href="https://github.com/callejaj/project2" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        <!-- <a href="https://github.com/CallejaJ" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a> -->
+        <a href="https://staking-dubai.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE%20DEMO-4FC08D?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
         </a>
-        <p><strong>React, IPFS, OpenZeppelin</strong></p>
-        <p>Decentralized NFT marketplace with gasless transactions</p>
+        <p><strong>Solidity 0.8.20 • ReentrancyGuard • SafeERC20</strong></p>
+        <p><strong>React • Web3.js</strong></p>
+        <p>Secure USDT staking protocol with advanced safety mechanisms</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🏦 Asset Tokenization</h3>
+      <h3 align="center">🏗️ TokenBricks - Real Estate</h3>
       <div align="center">
-        <a href="https://github.com/callejaj/project3" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        <!-- <a href="https://github.com/CallejaJ/tokenbricks" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a> -->
+        <a href="https://tokenbricks.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE%20DEMO-4FC08D?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
         </a>
-        <p><strong>ERC-1155, Account Abstraction</strong></p>
-        <p>Real-world asset tokenization platform</p>
+        <p><strong>Next.js • Material UI</strong></p>
+        <p><strong>Smart Contracts • Tokenization</strong></p>
+        <p>Real estate tokenization platform for fractional property ownership</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🔄 Cross-Chain Bridge</h3>
+      <h3 align="center">⚖️ Ana Rodríguez Law Firm</h3>
       <div align="center">
-        <a href="https://github.com/callejaj/project4" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        <!-- <a href="https://github.com/CallejaJ" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a> -->
+        <a href="https://anarodriguezabogados.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE%20DEMO-4FC08D?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
         </a>
-        <p><strong>Chainlink CCIP, Layer 2</strong></p>
-        <p>Secure cross-chain asset bridge solution</p>
+        <p><strong>Next.js 15 • React 19 • TypeScript • Prisma</strong></p>
+        <p><strong>shadcn/ui • Framer Motion • Tailwind CSS 4</strong></p>
+        <p>Modern law firm website with advanced animations and forms</p>
       </div>
     </td>
   </tr>
@@ -208,9 +249,9 @@ const jorge = {
 ### 📫 Reach Out
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/callejaj)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/callejaj)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/300palabras)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/300palabras)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jorgecalleja.dev)
 
 </div>
 
