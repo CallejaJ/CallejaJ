@@ -175,7 +175,7 @@ const jorge = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">⚡ Gasless Token Swap</h3>
+      <h3 align="center"> Gasless Token Swap</h3>
       <div align="center">
         <!-- <a href="https://github.com/CallejaJ/token-swap" target="_blank">
           <img src="https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -189,7 +189,7 @@ const jorge = {
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">💰 USDT Staking Platform</h3>
+      <h3 align="center"> USDT Staking Platform</h3>
       <div align="center">
         <!-- <a href="https://github.com/CallejaJ" target="_blank">
           <img src="https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -205,7 +205,7 @@ const jorge = {
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🏗️ TokenBricks - Real Estate</h3>
+      <h3 align="center"> TokenBricks - Real Estate</h3>
       <div align="center">
         <!-- <a href="https://github.com/CallejaJ/tokenbricks" target="_blank">
           <img src="https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -219,7 +219,7 @@ const jorge = {
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">⚖️ Ana Rodríguez Law Firm</h3>
+      <h3 align="center"> Ana Rodríguez Law Firm</h3>
       <div align="center">
         <!-- <a href="https://github.com/CallejaJ" target="_blank">
           <img src="https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -268,10 +268,9 @@ const jorge = {
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🐍 Contribution Snake
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-![Snake animation](https://github.com/callejaj/callejaj/blob/output/github-contribution-grid-snake-dark.svg)
+[<p align="center"> <img src="https://raw.githubusercontent.com/CallejaJ/CallejaJ/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="700"> </p>
+](https://github.com/CallejaJ/CallejaJ/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
