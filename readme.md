@@ -1,6 +1,5 @@
 <div align="center">
   
-# 🚀 Jorge Calleja
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Web3+%26+Blockchain+Developer;Building+Decentralized+Solutions;Smart+Contract+Architect;DeFi+Protocol+Specialist;Asset+Tokenization+Expert" alt="Typing SVG" />
 
