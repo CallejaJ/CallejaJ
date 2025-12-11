@@ -1,92 +1,238 @@
-<div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+Jorge+Calleja;+Web3+Blockchain+Developer;SaaS+B2B+Solutions;Generative+optimization+Experience;+Asset+tokenization;Building+a+new+future+together!" alt="Headline" />
+<div align="center">
+  
+# 🚀 Jorge Calleja
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Web3+%26+Blockchain+Developer;Building+Decentralized+Solutions;Smart+Contract+Architect;DeFi+Protocol+Specialist;Asset+Tokenization+Expert" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=callejaj&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/callejaj)
+[![GitHub followers](https://img.shields.io/github/followers/callejaj?style=for-the-badge&color=00D9FF&labelColor=1a1e2e)](https://github.com/callejaj?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/callejaj?style=for-the-badge&color=00D9FF&labelColor=1a1e2e)](https://github.com/callejaj?tab=repositories)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=callejaj&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+## 🌟 About Me
 
-## 👨‍💻 About Me
+```typescript
+const jorge = {
+    location: "Málaga, Spain 🇪🇸",
+    role: "Web3 & Blockchain Developer",
+    focus: ["DeFi Protocols", "Asset Tokenization", "Account Abstraction"],
+    motto: "Building a decentralized future, one block at a time 🔗",
+    currentlyLearning: ["ZK-Proofs", "Layer 2 Solutions", "Cross-chain Bridges"],
+    openTo: ["Startup Collaborations", "Open Source Projects", "Innovation"],
+    interests: ["Smart Contracts", "Gasless Transactions", "SaaS B2B Solutions"]
+};
+```
 
-I'm currently living in **Malaga** and I'm looking to collaborate on new startups and open source projects. I keep on learning best practices. **Building a new future together!**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🔭 **Current Focus:** Web3 & Blockchain Development  
-🌱 **Learning:** Advanced DeFi protocols and Account Abstraction  
-💡 **Specialties:** Asset tokenization and gasless transactions  
-🤝 **Open to:** Collaboration on innovative projects  
+## 🛠️ Tech Arsenal
 
-## 🛠️ Tech Stack
+<details open>
+<summary><b>⚡ Blockchain & Web3</b></summary>
+<br/>
+<div align="center">
+  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
 
-<p align="center">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
-    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
-</p>
+</div>
+</details>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare">
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
-    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-</p>
+<details open>
+<summary><b>💻 Frontend Development</b></summary>
+<br/>
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<p align="center">
-    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-    <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
-</p>
+</div>
+</details>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-    <img src="https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white" alt="Single Store">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
+<details open>
+<summary><b>⚙️ Backend & Infrastructure</b></summary>
+<br/>
+<div align="center">
+  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 
-<p align="center">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
+</div>
+</details>
 
-## 🏆 GitHub Achievements
+<details open>
+<summary><b>🗄️ Database Technologies</b></summary>
+<br/>
+<div align="center">
+  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![SingleStore](https://img.shields.io/badge/SingleStore-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=callejaj&margin-w=15&margin-h=15&column=4&theme=algolia" alt="callejaj" />
-  </a>
-</p>
+</div>
+</details>
 
-## 📊 GitHub Statistics
+<details open>
+<summary><b>🔧 Tools & Workflow</b></summary>
+<br/>
+<div align="center">
+  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=callejaj&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="callejaj" />
-</p>
+</div>
+</details>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=callejaj&show_icons=true&locale=en&theme=dark&hide_border=true" alt="callejaj" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callejaj&theme=dark&hide_border=true" alt="callejaj" />
-</p>
+## 📊 GitHub Analytics
 
-## 🤝 Let's Connect
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=callejaj&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Jorge Calleja github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callejaj&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Jorge Calleja top languages" />
+</div>
 
-<p align="center">
-  <i>Feel free to reach out if you want to collaborate on Web3 projects or just want to chat about blockchain technology!</i>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=callejaj&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="callejaj streak" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations-brightgreen?style=for-the-badge" alt="Open to Collaborations" />
-  <img src="https://img.shields.io/badge/Status-Building%20the%20Future-brightgreen?style=for-the-badge" alt="Building the Future" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=callejaj&custom_title=Jorge's%20Contribution%20Graph&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true" alt="Jorge's Activity Graph" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=callejaj&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💡 Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔐 DeFi Protocol</h3>
+      <div align="center">
+        <a href="https://github.com/callejaj/project1" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <p><strong>Smart Contracts, Solidity, Web3</strong></p>
+        <p>Advanced DeFi protocol with yield farming and liquidity pools</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎨 NFT Marketplace</h3>
+      <div align="center">
+        <a href="https://github.com/callejaj/project2" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <p><strong>React, IPFS, OpenZeppelin</strong></p>
+        <p>Decentralized NFT marketplace with gasless transactions</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏦 Asset Tokenization</h3>
+      <div align="center">
+        <a href="https://github.com/callejaj/project3" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <p><strong>ERC-1155, Account Abstraction</strong></p>
+        <p>Real-world asset tokenization platform</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔄 Cross-Chain Bridge</h3>
+      <div align="center">
+        <a href="https://github.com/callejaj/project4" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <p><strong>Chainlink CCIP, Layer 2</strong></p>
+        <p>Secure cross-chain asset bridge solution</p>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  
+### 💬 Open for Opportunities
+
+<img src="https://img.shields.io/badge/🚀%20Startups-Welcome-00D9FF?style=for-the-badge" alt="Startups Welcome" />
+<img src="https://img.shields.io/badge/🤝%20Open%20Source-Contributor-00D9FF?style=for-the-badge" alt="Open Source" />
+<img src="https://img.shields.io/badge/💡%20Web3-Innovation-00D9FF?style=for-the-badge" alt="Web3 Innovation" />
+
+### 📫 Reach Out
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/callejaj)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/callejaj)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  
+### 🌈 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/callejaj/callejaj/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <b>⭐ If you find my work interesting, don't forget to star the repositories!</b>
+  <br><br>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</div>
