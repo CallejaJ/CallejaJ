@@ -13,7 +13,7 @@
 
 </div>
 
-## 🌟 About Me
+##  About Me
 
 ```typescript
 const jorge = {
@@ -29,10 +29,10 @@ const jorge = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <details open>
-<summary><b>⚡ Blockchain & Web3</b></summary>
+<summary><b> Blockchain & Web3</b></summary>
 <br/>
 <div align="center">
   
@@ -49,7 +49,7 @@ const jorge = {
 </details>
 
 <details open>
-<summary><b>💻 Frontend Development</b></summary>
+<summary><b> Frontend Development</b></summary>
 <br/>
 <div align="center">
   
@@ -66,7 +66,7 @@ const jorge = {
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & Infrastructure</b></summary>
+<summary><b> Backend & Infrastructure</b></summary>
 <br/>
 <div align="center">
   
@@ -83,7 +83,7 @@ const jorge = {
 </details>
 
 <details open>
-<summary><b>🗄️ Database Technologies</b></summary>
+<summary><b> Database Technologies</b></summary>
 <br/>
 <div align="center">
   
@@ -98,7 +98,7 @@ const jorge = {
 </details>
 
 <details open>
-<summary><b>🔧 Tools & Workflow</b></summary>
+<summary><b> Tools & Workflow</b></summary>
 <br/>
 <div align="center">
   
@@ -116,7 +116,7 @@ const jorge = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   
@@ -158,7 +158,7 @@ const jorge = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Achievements & Trophies
+##  Achievements & Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=callejaj&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
@@ -166,7 +166,7 @@ const jorge = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💡 Featured Projects
+##  Featured Projects
 
 <div align="center">
 <table>
@@ -235,17 +235,17 @@ const jorge = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 Let's Connect & Collaborate
+##  Let's Connect & Collaborate
 
 <div align="center">
   
-### 💬 Open for Opportunities
+###  Open for Opportunities
 
 <img src="https://img.shields.io/badge/🚀%20Startups-Welcome-00D9FF?style=for-the-badge" alt="Startups Welcome" />
 <img src="https://img.shields.io/badge/🤝%20Open%20Source-Contributor-00D9FF?style=for-the-badge" alt="Open Source" />
 <img src="https://img.shields.io/badge/💡%20Web3-Innovation-00D9FF?style=for-the-badge" alt="Web3 Innovation" />
 
-### 📫 Reach Out
+###  Reach Out
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/callejaj)
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/300palabras)
@@ -258,7 +258,7 @@ const jorge = {
 
 <div align="center">
   
-### 🌈 Random Dev Quote
+### Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
