@@ -9,11 +9,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/callejaj?style=for-the-badge&color=00D9FF&labelColor=1a1e2e)](https://github.com/callejaj?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/callejaj?style=for-the-badge&color=00D9FF&labelColor=1a1e2e)](https://github.com/callejaj?tab=repositories)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
-##  About Me
+###  About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ```typescript
 const jorge = {
@@ -27,9 +28,10 @@ const jorge = {
 };
 ```
 
+
+###  Tech Arsenal
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-##  Tech Arsenal
 
 <details open>
 <summary><b> Blockchain & Web3</b></summary>
@@ -114,9 +116,9 @@ const jorge = {
 </div>
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-##  GitHub Analytics
+###  GitHub Analytics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   
@@ -156,17 +158,18 @@ const jorge = {
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-##  Achievements & Trophies
+###  Achievements & Trophies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=callejaj&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
+
+###  Featured Projects
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-##  Featured Projects
 
 <div align="center">
 <table>
@@ -233,9 +236,10 @@ const jorge = {
 </table>
 </div>
 
+
+###  Let's Connect & Collaborate
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-##  Let's Connect & Collaborate
 
 <div align="center">
   
@@ -254,21 +258,23 @@ const jorge = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   
 ### Random Dev Quote
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🐍 Contribution Snake
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ![Snake animation](https://github.com/callejaj/callejaj/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <b>⭐ If you find my work interesting, don't forget to star the repositories!</b>
