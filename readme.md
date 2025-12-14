@@ -134,23 +134,6 @@ const jorge = {
   
 </div>
 
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=callejaj&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Jorge Calleja Streak Stats" />
-  </a>
-  
-</div>
-
-<!-- Alternative: If the above doesn't work, uncomment this section -->
-<!--
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=callejaj&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=callejaj&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
--->
-
 <!-- Activity Graph -->
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -161,9 +144,8 @@ const jorge = {
 
 ###  Achievements & Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=callejaj&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=callejaj&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 
