@@ -171,47 +171,17 @@ const jorge = {
       </div>
     </td>
     <td width="50%">
-      <h3 align="center"> USDT Staking Platform</h3>
+      <h3 align="center"> IOTA NFT Launchpad</h3>
       <div align="center">
         <!-- <a href="https://github.com/CallejaJ" target="_blank">
           <img src="https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a> -->
-        <a href="https://staking-dubai.vercel.app/" target="_blank">
+        <a href="https://iota-nft-platform.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/LIVE%20DEMO-4FC08D?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
         </a>
-        <p><strong>Solidity 0.8.20 • ReentrancyGuard • SafeERC20</strong></p>
-        <p><strong>React • Web3.js</strong></p>
-        <p>Secure USDT staking protocol with advanced safety mechanisms</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"> TokenBricks - Real Estate</h3>
-      <div align="center">
-        <!-- <a href="https://github.com/CallejaJ/tokenbricks" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        </a> -->
-        <a href="https://tokenbricks.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE%20DEMO-4FC08D?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
-        </a>
-        <p><strong>Next.js • Material UI</strong></p>
-        <p><strong>Smart Contracts • Tokenization</strong></p>
-        <p>Real estate tokenization platform for fractional property ownership</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center"> Ana Rodríguez Law Firm</h3>
-      <div align="center">
-        <!-- <a href="https://github.com/CallejaJ" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        </a> -->
-        <a href="https://anarodriguezabogados.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE%20DEMO-4FC08D?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
-        </a>
-        <p><strong>Next.js 15 • React 19 • TypeScript • Prisma</strong></p>
-        <p><strong>shadcn/ui • Framer Motion • Tailwind CSS 4</strong></p>
-        <p>Modern law firm website with advanced animations and forms</p>
+        <p><strong>IOTA SDK • Pinata Web3 • React Query • Zod</strong></p>
+        <p><strong>zkLogin • IPFS • Move Smart Contracts</strong></p>
+        <p>dApp for creating and minting NFTs on IOTA Rebased Testnet</p>
       </div>
     </td>
   </tr>
