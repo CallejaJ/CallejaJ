@@ -122,28 +122,29 @@ const jorge = {
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=callejaj&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Jorge Calleja GitHub Stats" />
+  <!-- GitHub Stats Azure y Lenguajes en la misma fila -->
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=chartreuse-dark&fontFamily=Adamina&preferLogin=true">
+    <img width="54%" height="220px" alt="callejaj's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/callejaj?cardType=github&theme=chartreuse-dark&fontFamily=Adamina&preferLogin=true" />
   </a>
-  
-  <!-- Most Used Languages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callejaj&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Jorge Calleja Top Languages" />
+    <img width="44%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callejaj&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Jorge Calleja Top Languages" />
   </a>
-  
-</div>
 
-<!-- Activity Graph -->
-<div align="center">
+  <br/>
+
+  <!-- GitHub Stats Card completa -->
+
+  <br/>
+
+  <!-- Gráfico de actividad -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=callejaj&custom_title=Jorge's%20Contribution%20Graph&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true" alt="Jorge's Activity Graph" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=callejaj&custom_title=Jorge's%20Contribution%20Graph&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true" alt="Jorge's Activity Graph" />
   </a>
 </div>
-
 
 ###  Achievements & Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=callejaj&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
