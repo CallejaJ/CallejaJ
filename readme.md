@@ -121,20 +121,6 @@ const jorge = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  
-  <!-- GitHub Stats Azure y Lenguajes en la misma fila -->
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=chartreuse-dark&fontFamily=Adamina&preferLogin=true">
-    <img width="54%" height="220px" alt="callejaj's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/callejaj?cardType=github&theme=chartreuse-dark&fontFamily=Adamina&preferLogin=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="44%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callejaj&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Jorge Calleja Top Languages" />
-  </a>
-
-  <br/>
-
-  <!-- GitHub Stats Card completa -->
-
-  <br/>
 
   <!-- Gráfico de actividad -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
