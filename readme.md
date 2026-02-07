@@ -1,7 +1,7 @@
 <div align="center">
   
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Web3+%26+Blockchain+Developer;Building+Decentralized+Solutions;Smart+Contract+Architect;DeFi+Protocol+Specialist;Creative+Frontend+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Decentralized+Solutions;Web3+Frontend+Developer;React+Typescript+;Account-Abstraction" alt="Typing SVG" />
 
 <br/>
 
