@@ -163,7 +163,7 @@ const jorge = {
         <!-- <a href="https://github.com/CallejaJ" target="_blank">
           <img src="https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a> -->
-        <a href="https://iota-nft-platform.vercel.app" target="_blank">
+        <a href="https://luminanft.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/LIVE%20DEMO-4FC08D?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
         </a>
         <p><strong>IOTA SDK • Pinata Web3 • React Query • Zod</strong></p>
