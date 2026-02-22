@@ -1,6 +1,6 @@
 <div align="center">
-  
-  
+
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Decentralized+Solutions;Web3+Frontend+Developer;React+Typescript+;Account+Abstraction" alt="Typing SVG" />
 
 <br/>
@@ -37,7 +37,7 @@ const jorge = {
 <summary><b> Blockchain & Web3</b></summary>
 <br/>
 <div align="center">
-  
+
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
@@ -54,7 +54,7 @@ const jorge = {
 <summary><b> Frontend Development</b></summary>
 <br/>
 <div align="center">
-  
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -71,7 +71,7 @@ const jorge = {
 <summary><b> Backend & Infrastructure</b></summary>
 <br/>
 <div align="center">
-  
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -88,7 +88,7 @@ const jorge = {
 <summary><b> Database Technologies</b></summary>
 <br/>
 <div align="center">
-  
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -103,7 +103,7 @@ const jorge = {
 <summary><b> Tools & Workflow</b></summary>
 <br/>
 <div align="center">
-  
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -144,6 +144,47 @@ const jorge = {
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center"> Memento Agent</h3>
+      <div align="center">
+        <a href="https://github.com/CallejaJ/memento-agent" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+        <p><strong>TypeScript • Node.js • Claude AI (Anthropic)</strong></p>
+        <p><strong>grammY • Supabase • SQLite • AWS EC2</strong></p>
+        <p>Telegram AI bot that teaches Web3, moderates the community, and personalizes responses using Claude — deployed on AWS EC2</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center"> Memento Academy</h3>
+      <div align="center">
+        <a href="https://github.com/CallejaJ/memento-academy" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+        <a href="https://memento-academy.com/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE%20DEMO-4FC08D?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
+        </a>
+        <p><strong>Next.js 15 • TypeScript • AWS • Terraform</strong></p>
+        <p><strong>GitHub Actions • Prisma • Supabase</strong></p>
+        <p>Free Web3 educational platform with gamified crypto quiz (earn MEMO tokens), premium courses, and full AWS infrastructure with IaC</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"> Web3 Arcade Shield</h3>
+      <div align="center">
+        <a href="https://github.com/CallejaJ/web3-arcade-shield" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+        <a href="https://web3arcade.xyz/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE%20DEMO-4FC08D?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
+        </a>
+        <p><strong>Next.js 15 • React 19 • Privy • ZeroDev</strong></p>
+        <p><strong>Genkit AI • Gemini • Account Abstraction</strong></p>
+        <p>Web3 security platform with AI agents for real-time smart contract analysis and gasless transactions via Account Abstraction</p>
+      </div>
+    </td>
+    <td width="50%">
       <h3 align="center"> Gasless Token Swap</h3>
       <div align="center">
         <!-- <a href="https://github.com/CallejaJ/token-swap" target="_blank">
@@ -157,20 +198,6 @@ const jorge = {
         <p>Gasless token swapping with account abstraction for seamless UX</p>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center"> IOTA NFT Launchpad</h3>
-      <div align="center">
-        <!-- <a href="https://github.com/CallejaJ" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        </a> -->
-        <a href="https://luminanft.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE%20DEMO-4FC08D?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
-        </a>
-        <p><strong>IOTA SDK • Pinata Web3 • React Query • Zod</strong></p>
-        <p><strong>zkLogin • IPFS • Move Smart Contracts</strong></p>
-        <p>dApp for creating and minting NFTs on IOTA Rebased Testnet</p>
-      </div>
-    </td>
   </tr>
 </table>
 </div>
@@ -181,7 +208,7 @@ const jorge = {
 
 
 <div align="center">
-  
+
 ###  Open for Opportunities
 
 <img src="https://img.shields.io/badge/🚀%20Startups-Welcome-00D9FF?style=for-the-badge" alt="Startups Welcome" />
@@ -199,7 +226,7 @@ const jorge = {
 
 
 <div align="center">
-  
+
 ### Random Dev Quote
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
