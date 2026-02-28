@@ -109,7 +109,7 @@ const jorge = {
     <td width="50%">
       <h3 align="center">Web3 Arcade Shield</h3>
       <div align="center">
-        <a href="https://github.com/CallejaJ/web3-arcade-game" target="_blank">
+        <a href="https://github.com/CallejaJ/arcade-web3-game" target="_blank">
           <img src="https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
         <a href="https://web3arcade.xyz/" target="_blank">
