@@ -5,7 +5,7 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=callejaj&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/callejaj)
-[![GitHub followers](https://img.shields.io/github/followers/callejaj?style=for-the-badge&color=00D9FF&labelColor=1a1e2e)](https://github.com/callejaj?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/callejaj?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1e2e)](https://github.com/callejaj?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/callejaj?style=for-the-badge&color=00D9FF&labelColor=1a1e2e)](https://github.com/callejaj?tab=repositories)
 
 </div>
