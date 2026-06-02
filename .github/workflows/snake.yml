@@ -33,19 +33,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Move files to snake directory
-        run: |
-          mkdir -p snake
-          chmod -R 755 dist/
-          cp dist/*.svg snake/ || true
-          cp dist/*.gif snake/ || true
-          ls -la snake/
-
       - name: Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add snake/
+          git add dist/ || true
           git commit -m "chore: generate snake animation" || echo "No changes to commit"
           git push origin ${{ github.ref_name }}
         continue-on-error: true
