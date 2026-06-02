@@ -36,8 +36,9 @@ jobs:
       - name: Move files to snake directory
         run: |
           mkdir -p snake
-          mv dist/*.svg snake/
-          mv dist/*.gif snake/
+          chmod -R 755 dist/
+          cp dist/*.svg snake/ || true
+          cp dist/*.gif snake/ || true
           ls -la snake/
 
       - name: Commit and push
