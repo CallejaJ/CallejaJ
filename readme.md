@@ -163,7 +163,10 @@ const jorge = {
 
 ### Contribution Snake
 
-[<p align="center"><img src="https://raw.githubusercontent.com/CallejaJ/CallejaJ/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="700"></p>](https://github.com/CallejaJ/CallejaJ/blob/output/github-contribution-grid-snake-dark.svg)
+  <p align="center">
+     <img src="https://raw.githubusercontent.com/CallejaJ/CallejaJ/main/snake/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="700" />
+   </p>
+
 
 </div>
 
