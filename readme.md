@@ -163,9 +163,9 @@ const jorge = {
 
 ### Contribution Snake
 
-    <p align="center">
+   <p align="center">
      <img src="https://raw.githubusercontent.com/CallejaJ/CallejaJ/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="700" />
-   </p>
+   </p> 
 
 
 </div>
