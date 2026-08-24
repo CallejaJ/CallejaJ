@@ -41,6 +41,9 @@ const jorge = {
         <a href="https://github.com/CallejaJ/timebankonchain" target="_blank">
           <img src="https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
+            <a href="https://www.bancodeltiempomalaga.com/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE%20DEMO-4FC08D?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
+        </a>
         <p><strong>Next.js 16 • React 19 • Prisma 6 • PostgreSQL</strong></p>
         <p><strong>Tailwind 4 • shadcn/ui • Zod • JWT</strong></p>
         <p>Time banking platform where users exchange services using time as currency (1h = 1 credit). Server Actions, JWT auth — full-stack evolution of a React/Vite + Express + MySQL project</p>
