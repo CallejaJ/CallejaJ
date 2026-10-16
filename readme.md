@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://jorgecalleja.dev"><img src="https://img.shields.io/badge/jorgecalleja.dev-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/callejaj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/memento_academy"><img src="https://img.shields.io/badge/@memento__academy-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
@@ -115,7 +114,6 @@ contract JorgeCalleja {
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/callejaj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/memento_academy"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://jorgecalleja.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </p>
