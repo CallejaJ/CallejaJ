@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://jorgecalleja.dev"><img src="https://img.shields.io/badge/jorgecalleja.dev-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/callejaj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/memento_academy"><img src="https://img.shields.io/badge/@memento__academy-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
@@ -63,7 +62,7 @@ contract JorgeCalleja {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⏳ Banco del Tiempo</h3>
+      <h3>Banco del Tiempo</h3>
       <p><code>status: live</code> · <code>tx: full-stack</code></p>
       <p>Time banking platform where users exchange services using time as currency (<b>1h = 1 credit</b>). Server Actions and JWT auth; the full-stack evolution of a React/Vite + Express + MySQL project.</p>
       <p><sub>Next.js 16 · React 19 · Prisma 6 · PostgreSQL · Tailwind 4 · shadcn/ui · Zod · JWT</sub></p>
@@ -73,7 +72,7 @@ contract JorgeCalleja {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 Memento Academy</h3>
+      <h3>Memento Academy</h3>
       <p><code>status: live</code> · <code>tx: web3 + IaC</code></p>
       <p>Free Web3 educational platform with a gamified crypto quiz (earn <b>MEMO</b> tokens), premium courses, and full AWS infrastructure as code.</p>
       <p><sub>Next.js 15 · TypeScript · AWS · Terraform · GitHub Actions · Prisma · Supabase</sub></p>
@@ -85,7 +84,7 @@ contract JorgeCalleja {
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>⚡ jorgecalleja.dev</h3>
+      <h3>jorgecalleja.dev</h3>
       <p><code>status: live</code> · <code>tx: performance + SEO</code></p>
       <p>My own site: a web studio for small businesses in Málaga, with a built-in <b>PageSpeed Insights</b> website analyzer and content structured for both search engines and AI assistants (<code>llms.txt</code>, structured data).</p>
       <p><sub>Next.js 15 · React 19 · TypeScript · Tailwind CSS · shadcn/ui · Framer Motion · Resend · Vercel</sub></p>
@@ -115,7 +114,6 @@ contract JorgeCalleja {
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/callejaj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/memento_academy"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://jorgecalleja.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </p>
